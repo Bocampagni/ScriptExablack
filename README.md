@@ -1,1 +1,1 @@
-Automatic setup of developer environment
+Clone it then run it.
